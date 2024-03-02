@@ -1,0 +1,6 @@
+
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(å£Í8šß¸äß1
+y
+java:S1450"\Remove the "filePathField" field and declare it as a local variable in the relevant methods.(¬¬ÕÈ8Úß¸äß1
+~
+java:S1450"\Remove the "shiftKeyField" field and declare it as a local variable in the relevant methods.(èû™šÿÿÿÿÿ8Úß¸äß1

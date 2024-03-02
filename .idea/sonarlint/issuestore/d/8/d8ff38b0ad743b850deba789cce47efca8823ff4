@@ -1,0 +1,27 @@
+
+m
+java:S1192Q"PDefine a constant instead of duplicating this literal "Enter file path" 3 times.(¶Ψω8Ϋΰεί1
+E
+java:S1604#"(Make this anonymous inner class a lambda(½Β’υ8έΰεί1
+J
+java:S1604,"(Make this anonymous inner class a lambda(κΎΙϊÿÿÿÿ8έΰεί1
+D
+java:S16045"(Make this anonymous inner class a lambda(Τ΄!8έΰεί1
+E
+java:S1604>"(Make this anonymous inner class a lambda(–ΗΥΥ8ήΰεί1
+E
+java:S1604Z"(Make this anonymous inner class a lambda(½Β’υ8ήΰεί1
+J
+java:S1604{"(Make this anonymous inner class a lambda(κΎΙϊÿÿÿÿ8ήΰεί1
+E
+java:S1604—"(Make this anonymous inner class a lambda(Τ΄!8ήΰεί1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(φ–ΉΑώÿÿÿÿ8ίΰεί1
+k
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Υϋ»φώÿÿÿÿ8ÿΰεί1
+C
+java:S3457®"%String contains no format specifiers.(ξΖσ’8’ΰεί1
+H	java:S106®"+Replace this use of System.out by a logger.(ξΖσ’8’ΰεί1
+H	java:S106±"+Replace this use of System.out by a logger.(Κ™°Β8’ΰεί1
+C
+java:S3457½"%String contains no format specifiers.(ξΖσ’8”ΰεί1
+H	java:S106½"+Replace this use of System.out by a logger.(ξΖσ’8”ΰεί1
